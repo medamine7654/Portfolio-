@@ -27,7 +27,11 @@ function revealOnScroll() {
 }
 window.addEventListener("scroll", revealOnScroll);
 
+// behi testa3mel div hadhi 3al partie li hab t5adem 3liha l reveal (<div class="reveal">.....</div>)
+
 // hadhi lel Contact Form Validation 
+
+
 const contactForm = document.getElementById("contact-form");
 if (contactForm) {
   contactForm.addEventListener("submit", function (e) {
@@ -42,3 +46,6 @@ if (contactForm) {
   });
 }
 
+
+
+//tansach bech tzid videos 9bal contact me area 
